@@ -10,6 +10,14 @@
     color: #ff0000c2;
 }
 
+.points_container .colorUser{
+    color: #c96d37;
+}
+
+.points_container .colorIa{
+    color: #475b92;
+}
+
 body{
     background: #111111ec;
 }
@@ -36,6 +44,17 @@ body{
     font-size: 25px;
     font-weight: bolder;
     color: #f9f9f9;
+}
+
+.points_container{
+    display: flex;
+    padding: 10px 120px;
+}
+
+.points_container h2{
+  margin: 30px;
+  font-size: 40px;
+  font-weight: 900;
 }
 
 .btn_container{
